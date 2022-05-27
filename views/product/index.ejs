@@ -2,7 +2,9 @@
     <div class="card">
         <div class="card-body">
             <h4 class="card-title d-inline">Product</h4>
-            <a href="/admin/product/create" class="btn btn-gradient-success btn-fw float-right">Add Product</a>
+            <a href="/admin/product/create"
+               class="btn btn-gradient-success btn-fw float-right">Add
+                Product</a>
             <table class="table table-striped">
                 <thead>
                     <tr>
@@ -27,9 +29,10 @@
                         <td><%= el.creator %></td>
                         <td><%= el.isHide %></td>
                         <td>
-                            <a href="/admin/product/edit/<%= el._id %>" class="btn btn-gradient-info btn-md">Edit</a>
+                            <a href="/admin/product/edit/<%= el._id %>"
+                               class="btn btn-gradient-info btn-md">Edit</a>
                             <a href="/admin/product/delete/<%= el._id %>?fileName=<%= el.logo %>"
-                                class="btn btn-gradient-danger btn-md">Delete</a>
+                               class="btn btn-gradient-danger btn-md">Delete</a>
                         </td>
                     </tr>
                     <% }); %>
@@ -38,16 +41,30 @@
         </div>
         <ul class="pagination justify-content-center">
             <% if(currentPage > 1){ %>
-            <li class="page-item"><a class="page-link" href="/admin/product?page=<%= +currentPage - 1 %>">Previous</a>
+            <li class="page-item"><a class="page-link"
+                   href="/admin/product?page=<%= +currentPage - 1 %>">Previous</a>
             </li>
             <% } %>
-            <% for(let i=1; i <= totalPage; i++){ %>
-            <li class="page-item"><a class="page-link" href="/admin/product?page=<%= i %>"><%= i %> </a></li>
-            <% } %>
+            <% for(let i=1; i <= totalPage; i++){ 
+            if(currentPage == i) {
+                %>
+            <li class="page-item active"><a class="page-link"
+                   href="/admin/product?page=<%= i %>"><%= i %> </a></li>
+            <%
+             }
+             else{
+                 %>
+            <li class="page-item"><a class="page-link"
+                   href="/admin/product?page=<%= i %>"><%= i %> </a></li>
+            <%
+             }
+            
+            } %>
             <% if(currentPage < totalPage){ %>
-            <li class="page-item"><a class="page-link" href="/admin/product?page=<%= +currentPage + 1 %>">Next</a></li>
+            <li class="page-item"><a class="page-link"
+                   href="/admin/product?page=<%= +currentPage + 1 %>">Next</a>
+            </li>
             <% } %>
         </ul>
     </div>
-
 </div>
