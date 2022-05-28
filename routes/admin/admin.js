@@ -60,7 +60,7 @@ route.get("/product", productController.getIndex);
 route.get("/product/create", productController.getIndexCreate);
 route.post("/product/create", upload.uploadProduct.single("logo-product"), productController.processCreate);
 route.get("/product/edit/:id", productController.getIndexEdit);
-route.post("/product/edit/:id", productController.processEdit);
+route.post("/product/edit/:id", upload.uploadProduct.single("logo-product"), productController.processEdit);
 route.get("/product/delete/:id", productController.processDelete);
 
 //order route
