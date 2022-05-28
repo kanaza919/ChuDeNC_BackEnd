@@ -1,0 +1,245 @@
+[{
+  "_id": {
+    "$oid": "5f58fd0d542afd34dc9368c2"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "historyOrder": [],
+  "name": "Long",
+  "username": "cn16a1",
+  "password": "$2a$10$sKtrnWVbHqJPJM13LahVCe9CLSt3VUVu3v25hvSwZu3aP5JORK10O",
+  "email": "danhpham511998@gmail.com",
+  "phone": "0348356832",
+  "address": "Đường C3, TPHCM",
+  "role": "Quản Trị Viên",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5a5a633383032168455c14"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "historyOrder": [],
+  "name": "Trần Văn Tèo",
+  "username": "cn16a2",
+  "password": "$2a$10$w1vl7NFfT0NF7UHFWYvaz.JB.8/1nZzrCVG4x3dlU5l/edNKA7u/m",
+  "email": "teo@gmail.com",
+  "phone": "0909011201",
+  "address": "Đường A, TPHCM",
+  "role": "Nhân Viên",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7f3a1502dd5c0004a2fe19"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "historyOrder": [],
+  "username": "client2",
+  "password": "$2a$10$/CLTofadOHBdLjCiOBOvq.u7S8l3Dqhrcn6i.mt6BB15L4rmdRJxy",
+  "email": "d@gmail.com",
+  "name": "Trần Văn D",
+  "address": "",
+  "phone": "",
+  "role": "Khách Hàng",
+  "creator": "Trần Văn D",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f886c32a6a9e80004d24f5c"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "historyOrder": [],
+  "username": "client1",
+  "password": "$2a$10$F9Ez/B0zqvbehAouYbYDQuGC3xlarI/X.LI1GldJj5bBWhYTWDYvW",
+  "email": "client1@gmail.com",
+  "name": "Phạm Minh ABC",
+  "address": "500/5 trường sa p2 quận Phú Nhuận",
+  "phone": "0123456789",
+  "role": "Khách Hàng",
+  "creator": "Phạm Minh ABC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb9e89b14cef30004128745"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "historyOrder": [],
+  "username": "w",
+  "password": "$2a$10$KeTKpIpkqYf9CbBRlhq6aub5XjmHx1nrqLDt2PmGhvAQRMnB1HvO6",
+  "email": "adđ",
+  "name": "aa",
+  "address": "dđ",
+  "phone": "1234",
+  "role": "Khách Hàng",
+  "creator": "aa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fba0e99b2115b00046438f6"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "historyOrder": [],
+  "username": "client3",
+  "password": "$2a$10$6xWkoYc0wGqXmkH/6PbnNukV.07lrfQd8c1CxQj93FeGIA0KIqoqS",
+  "email": "client3",
+  "name": "Nguyễn Văn A",
+  "address": "",
+  "phone": "",
+  "role": "Khách Hàng",
+  "creator": "Nguyễn Văn A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc672c2208b1d0f2cc089d2"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "historyOrder": [],
+  "username": "client4",
+  "password": "$2a$10$TTufbzsAREH04ib6YwZvbOxUUUXyglug8zgA6uwe3WL0eypXeymx.",
+  "email": "0335516432",
+  "name": "client4",
+  "address": "",
+  "phone": "",
+  "role": "Khách Hàng",
+  "creator": "client4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc672f0208b1d0f2cc089d3"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "historyOrder": [],
+  "username": "client5",
+  "password": "$2a$10$5zHwCdM1IcKJeKi9EYOoCOhZ7sDMEfsIlTIb75c0FqwlvaLVWQweO",
+  "name": "client5",
+  "address": "",
+  "phone": "",
+  "role": "Khách Hàng",
+  "creator": "client5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc6730b208b1d0f2cc089d4"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "historyOrder": [],
+  "username": "client6",
+  "password": "$2a$10$cZmsEIFUpn59N6NTEmERceCAa7Qn.JxQEcEFU0XVWvQPcgcnASCY.",
+  "email": "qeasd",
+  "name": "client6",
+  "address": "",
+  "phone": "",
+  "role": "Khách Hàng",
+  "creator": "client6",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604225a90ddccd0004588917"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "historyOrder": [],
+  "username": "luongpd133",
+  "password": "$2a$10$svY628/TkK.QoiuuZWbn0eCtOO5oQEr1LJR/qZFuMUam4FcPteVj.",
+  "email": "luongbeo1332000@gmail.com",
+  "name": "Phạm Đức Lương",
+  "address": "ngõ 8 số nhà 26",
+  "phone": "0362538276",
+  "role": "Khách Hàng",
+  "creator": "Phạm Đức Lương",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62661d4cd601c4000436babe"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "historyOrder": [],
+  "username": "TanLoc200600",
+  "password": "$2a$10$jmn7qgjTm1BzQmei2pw2XeLsKzZY4LdVbJcHqaAblFG8yYB/sg6IK",
+  "email": "tanloc@gmail.com",
+  "name": "Tan Loc",
+  "address": "qeweqe",
+  "phone": "0987654321",
+  "role": "Khách Hàng",
+  "creator": "Tan Loc",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6267c242ed3677000404219f"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "historyOrder": [],
+  "username": "BangHead",
+  "password": "$2a$10$BSEH3aevQdSXUeTd4sWWReCIynjl57rvZ6JlWYABU.2mxElNU1w5m",
+  "email": "banghead834@gmail.com",
+  "name": "vip",
+  "address": "",
+  "phone": "",
+  "role": "Khách Hàng",
+  "creator": "vip",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628e2b619051b5000412a9d6"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "historyOrder": [],
+  "username": "loc123",
+  "password": "$2a$10$2LSb0BjDqAm6gF6i6qD22.vc1IhF22KsM/8bTUqaEGZjFy2XoQ1zi",
+  "email": "loc@gmail.com",
+  "name": "Loc",
+  "address": "CMT8, Tan Binh",
+  "phone": "09092871122",
+  "role": "Quản Trị Viên",
+  "creator": "Loc",
+  "__v": 0
+}]

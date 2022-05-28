@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "5f5668c4ef02b22a3069f987"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "dateUpdate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "isHide": false,
+  "title": "casio",
+  "logo": "1599498436032-logo-Casio.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f566a056e04f92090235de7"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "dateUpdate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "isHide": false,
+  "title": "orient",
+  "logo": "1599498757830-logo-Orient.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5669f46e04f92090235de6"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "dateUpdate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "isHide": false,
+  "title": "citizen",
+  "logo": "1599498740098-logo-Citizen.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f75f6b473179a1a64f41a77"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "dateUpdate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "isHide": false,
+  "title": "Seiko",
+  "logo": "1601566388784-logo-Seiko.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f75f68773179a1a64f41a76"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "dateUpdate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "isHide": false,
+  "title": "Sunrise",
+  "logo": "1601566343731-logo-sunrise.png",
+  "__v": 0
+}]

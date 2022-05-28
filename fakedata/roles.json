@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "5f5a5a1d3383032168455c11"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "name": "Quản Trị Viên",
+  "creator": "Long",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5a5a3c3383032168455c13"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "name": "Khách Hàng",
+  "creator": "Long",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5a5a273383032168455c12"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "name": "Nhân Viên",
+  "creator": "Long",
+  "__v": 0
+}]

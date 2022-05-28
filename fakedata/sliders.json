@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "5f5a5aa63383032168455c15"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "logo": "banner-desktop-10-1400x499.jpg",
+  "creator": "Long",
+  "__v": 0
+}]

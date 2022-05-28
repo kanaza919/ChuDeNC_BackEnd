@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "5f79eb2a8869ab0004e87128"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "isHide": false,
+  "subMenu": [
+    "casio",
+    "orient",
+    "citizen",
+    "Seiko",
+    "Sunrise"
+  ],
+  "title": "Thương Hiệu",
+  "creator": "Long",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f79eb398869ab0004e87129"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "isHide": false,
+  "subMenu": [
+    "casio",
+    "orient",
+    "citizen",
+    "Seiko",
+    "Sunrise"
+  ],
+  "title": "Đồng Hồ Nam",
+  "creator": "Long",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f79eb448869ab0004e8712a"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "isHide": false,
+  "subMenu": [
+    "casio",
+    "orient",
+    "citizen",
+    "Seiko",
+    "Sunrise"
+  ],
+  "title": "Đồng Hồ Nữ",
+  "creator": "Long",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f79eb508869ab0004e8712b"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "isHide": false,
+  "subMenu": [],
+  "title": "Tin Tức",
+  "creator": "Long",
+  "__v": 0
+}]

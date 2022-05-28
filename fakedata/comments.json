@@ -1,0 +1,145 @@
+[{
+  "_id": {
+    "$oid": "5fcdbd9b22a4f14960bc1313"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "username": "cn16a1",
+  "name": "Long",
+  "comment": "comment test 1",
+  "productId": {
+    "$oid": "5f75f3a173179a1a64f41a6e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcdc30622a4f14960bc1314"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "username": "client1",
+  "name": "Phạm Minh ABC",
+  "comment": "Sản phẩm tốt",
+  "productId": {
+    "$oid": "5f75f3a173179a1a64f41a6e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcdc35122a4f14960bc1315"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "username": "client1",
+  "name": "Phạm Minh ABC",
+  "comment": "Sản phẩm rất bền",
+  "productId": {
+    "$oid": "5f75f3a173179a1a64f41a6e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcdc3b222a4f14960bc1316"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "username": "cn16a1",
+  "name": "Long",
+  "comment": "Sản phẩm tuyệt vời\n",
+  "productId": {
+    "$oid": "5f76055173179a1a64f41a99"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcdc3d922a4f14960bc1317"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "username": "cn16a1",
+  "name": "Long",
+  "comment": "Sản phẩm tốt",
+  "productId": {
+    "$oid": "5f76055173179a1a64f41a99"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcdc43122a4f14960bc1318"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "username": "client1",
+  "name": "Phạm Minh ABC",
+  "comment": "Sản phẩm quá tốt :):)",
+  "productId": {
+    "$oid": "5f76055173179a1a64f41a99"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcdc48422a4f14960bc1319"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "username": "client1",
+  "name": "Phạm Minh ABC",
+  "comment": "hayahayahay:):)",
+  "productId": {
+    "$oid": "5f76055173179a1a64f41a99"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcdc48822a4f14960bc131a"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "username": "client1",
+  "name": "Phạm Minh ABC",
+  "comment": "hayahayahay:):)",
+  "productId": {
+    "$oid": "5f76055173179a1a64f41a99"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd1caa8a91686000455f59d"
+  },
+  "dateCreate": {
+    "$date": {
+      "$numberLong": "1650441505000"
+    }
+  },
+  "username": "client1",
+  "name": "Phạm Minh ABC",
+  "comment": "Rất tốt",
+  "productId": {
+    "$oid": "5f75f35673179a1a64f41a6d"
+  },
+  "__v": 0
+}]
