@@ -93,7 +93,7 @@ module.exports.processEdit = async (req, res) => {
 		let product = await ProductModel.findById(req.params.id);
 
 		let nameFile =
-			req.file.filename == null ? product.logo : req.file.filename;
+			req.file == null ? product.logo : req.file.filename;
 		let describe = {
 			thuonghieu: req.body.brand,
 			gioitinh: req.body.type,
