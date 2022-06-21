@@ -8,11 +8,14 @@ module.exports.getIndex = async (req, res) => {
 }
 
 module.exports.processLogin = async (req, res) => {
-    // console.log(req.body);
+    console.log(req.body);
     try {
         let user = await UserModel.find({ username: req.body.username });
         console.log(user);
-        if (user.length < 1) {
+        if (user[0].role != "Quản Trị Viên" && user[0].role != "Nhân Viên")
+            res.redirect("/login");
+            
+        if (user.length < 1 ) {
             res.redirect("/login");
         } else {
             if (bcryptjs.compareSync(req.body.password, user[0].password)) {
