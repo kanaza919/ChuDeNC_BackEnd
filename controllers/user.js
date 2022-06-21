@@ -72,7 +72,6 @@ module.exports.getIndexEdit = async (req, res) => {
             main: main,
             user: user,
             roles: roles,
-            user: req.session.userInfo
         })
     } catch (err) {
         console.log(err);
